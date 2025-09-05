@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
     <Provider store={store}>
       <App />
-        <h1 className="text-4xl font-bold text-red-500">Hello Tailwind</h1>
+        <h1 className="text-4xl font-bold text-red-500">Hello Tailwindsssss</h1>
 
     </Provider>
   </React.StrictMode>
